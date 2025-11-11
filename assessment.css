@@ -1,0 +1,16 @@
+body {
+  background-color: #b0c4de;
+  color: #ffffff;
+  width:500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+button {
+  padding: 5px 20px;
+  background-color: #135e9c;
+  color: #d7d7d7;
+  border-style: none;
+}
+input {
+  height: 30px;
+}
